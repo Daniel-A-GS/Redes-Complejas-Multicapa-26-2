@@ -1,6 +1,6 @@
 Este repositorio contiene el material práctico del **Seminario de Matemáticas Aplicadas II**, enfocado en la modelación de **Redes Complejas Multicapa, Temporales y de Orden superior** utilizando Python.
 
-## 👨‍🏫 Equipo dosente  
+## 👨‍🏫 Equipo docente  
 
 - **Profesor titular:** Dr. Eduardo Jacobo Villegas 
 - **Profesor adjunto:** [Daniel A. García Sánchez](https://www.linkedin.com/in/daniel-garcia-data-analyst/) 
