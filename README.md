@@ -13,6 +13,9 @@ Este repositorio contiene el material práctico del **Seminario de Matemáticas 
 
 La estructura de carpetas está organizada por semanas y clases, siguiendo el formato S#️⃣ en donde #️⃣ es el número de semana en la que se impartió. Dentro de cada carpeta se encontrarán los códigos en Python así como bases de datos necesarias para utilizar dichos códigos.
 
+- S02: Instalar [Anaconda](https://www.anaconda.com/products/navigator), y [Github Desktop](https://desktop.github.com/download/), Python básico.
+- S03: Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html) y Modelos de Redes (Erdös–Rényi, Mundo pequeño y Libre escala).
+
 ## 🎯 Enfoque
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
 - Utilizaremos librerías como:
