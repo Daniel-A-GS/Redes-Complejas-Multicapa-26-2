@@ -15,6 +15,9 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 
 - S02: Instalar [Anaconda](https://www.anaconda.com/products/navigator), y [Github Desktop](https://desktop.github.com/download/), Python básico.
 - S03: Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html) y Modelos de Redes (Erdös–Rényi, Mundo pequeño y Libre escala).
+- S04: EDA con Pandas y APIs
+- S05: Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html)
+- S06: Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/)
 
 ## 🎯 Enfoque
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
