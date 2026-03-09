@@ -19,9 +19,9 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 - S05: Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html)
 - S06: Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/) ||| El módulo Q de py3plex.
 - S07: Modelos epidemiológicos, Bootstrapping, caminatas aleatorias ||| Node2Vec.
-- S08: Label propagation ||| Link prediction.
-- S09: Introducción a Redes temporales con Teneto ||| Métricas de redes temporales.
-- S10: Temporal Communities by Trajectory Clustering con Teneto |||.
+- S08: Deep Walk ||| Label propagation.
+- S09: Link prediction ||| Introducción a Redes temporales con Teneto.
+- S10: Métricas de redes temporales ||| Temporal Communities by Trajectory Clustering con Teneto.
 - S11: |||
 - S12: |||
 - S13: Introducción a HONs ||| Homología de Persistencia.
