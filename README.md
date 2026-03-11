@@ -13,11 +13,20 @@ Este repositorio contiene el material práctico del **Seminario de Matemáticas 
 
 La estructura de carpetas está organizada por semanas y clases, siguiendo el formato S#️⃣ en donde #️⃣ es el número de semana en la que se impartió. Dentro de cada carpeta se encontrarán los códigos en Python así como bases de datos necesarias para utilizar dichos códigos.
 
-- S02: Instalar [Anaconda](https://www.anaconda.com/products/navigator), y [Github Desktop](https://desktop.github.com/download/), Python básico.
-- S03: Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html) y Modelos de Redes (Erdös–Rényi, Mundo pequeño y Libre escala).
-- S04: EDA con Pandas y APIs
+- S02: Instalar [Anaconda](https://www.anaconda.com/products/navigator), y [Github Desktop](https://desktop.github.com/download/) ||| Python básico.
+- S03: Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html) ||| Modelos de Redes (Erdös–Rényi, Mundo pequeño y Libre escala).
+- S04: EDA con Pandas ||| APIs
 - S05: Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html)
-- S06: Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/)
+- S06: Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/) ||| El módulo Q de py3plex.
+- S07: Modelos epidemiológicos, Bootstrapping, caminatas aleatorias ||| Node2Vec.
+- S08: Deep Walk ||| Label propagation.
+- S09: Link prediction ||| Introducción a Redes temporales con Teneto.
+- S10: Métricas de redes temporales ||| Temporal Communities by Trajectory Clustering con Teneto.
+- S11: |||
+- S12: |||
+- S13: Introducción a HONs ||| Homología de Persistencia.
+- S14: Complejos de Vietoris–Rips ||| BallMapper.
+- S15: GNN
 
 ## 🎯 Enfoque
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
