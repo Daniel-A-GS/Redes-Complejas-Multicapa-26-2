@@ -19,7 +19,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S05:** Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html).
 * **S06:** Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/) `|||` El módulo Q de Py3plex.
 * **S07:** Modelos epidemiológicos, Bootstrapping y Caminatas aleatorias.
-* **S08:** Map Equation e Infomap.
+* **S08:** Map Equation `|||` Infomap.
 <!-- 
 * **S08:** Map Equation e Infomap `|||` Curvatura de Ollivier-Ricci.
 * **S09:** Deep Walk `|||` Node2Vec.
