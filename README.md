@@ -13,34 +13,37 @@ Este repositorio contiene el material práctico del **Seminario de Matemáticas 
 
 La estructura de carpetas está organizada por semanas y clases, siguiendo el formato S#️⃣ en donde #️⃣ es el número de semana en la que se impartió. Dentro de cada carpeta se encontrarán los códigos en Python así como bases de datos necesarias para utilizar dichos códigos.
 
-- S02: Instalar [Anaconda](https://www.anaconda.com/products/navigator), y [Github Desktop](https://desktop.github.com/download/) ||| Python básico.
-- S03: Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html) ||| Modelos de Redes (Erdös–Rényi, Mundo pequeño y Libre escala).
-- S04: EDA con Pandas ||| APIs
-- S05: Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html)
-- S06: Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/) ||| El módulo Q de py3plex.
-- S07: Modelos epidemiológicos, Bootstrapping, caminatas aleatorias.
-- S08: Infomap ||| Node2Vec.
-- S09: Label propagation ||| Deep Walk |||.
-- S10: Link prediction ||| Introducción a Redes temporales con Teneto.
-- S11: Métricas de redes temporales ||| Temporal Communities by Trajectory Clustering con Teneto.
-- S12: |||
-- S13: Introducción a HONs ||| Homología de Persistencia.
-- S14: Complejos de Vietoris–Rips ||| BallMapper.
-- S15: GNN
-
-## 🎯 Enfoque
+* **S02:** Instalar [Anaconda](https://www.anaconda.com/products/navigator) y [Github Desktop](https://desktop.github.com/download/) `|||` Python básico.
+* **S03:** Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html) `|||` Modelos de Redes (Erdös–Rényi, Mundo pequeño y Libre escala).
+* **S04:** EDA con Pandas `|||` APIs.
+* **S05:** Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html).
+* **S06:** Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/) `|||` El módulo Q de Py3plex.
+* **S07:** Modelos epidemiológicos, Bootstrapping y Caminatas aleatorias.
+* **S08:** Map Equation `|||` Infomap.
+<!-- 
+* **S08:** Map Equation e Infomap `|||` Curvatura de Ollivier-Ricci.
+* **S09:** Deep Walk `|||` Node2Vec.
+* **S10:** Label propagation `|||` Link prediction.
+* **S11:** Introducción a Redes temporales con Teneto `|||` Métricas de redes temporales.
+* **S12:** Temporal Communities by Trajectory Clustering con Teneto `|||` Introducción a HONs (Higher-Order Networks).
+* **S13:** Complejos de Vietoris-Rips, Čech y Dowker `|||` Homología de Persistencia.
+* **S14:** TDA para Series de Tiempo (SW1Pers y Zigzag Persistence) `|||` Descomposición de Hodge-Helmholtz en redes.
+* **S15:** BallMapper `|||` Introducción a Graph Neural Networks (GNN).
+* **S16:** GNN (Profundización y Aplicaciones) `|||` Simplicial Neural Networks (SNN). -->
+  
+## 🎯 Enfoque 
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
 - Utilizaremos librerías como:
   - `networkx`
-  - `SNAP`
+    
   - `Py3Plex`
-  - `igraph`
   - `Pymnet`
+    
   - `Teneto`
+    
   - `xgi`
   - `Pathpy`
   - `HyperNetX`
-  - `pandas`
 - Consumo de APIs
 - Diversos modelos de redes complejas 
 
