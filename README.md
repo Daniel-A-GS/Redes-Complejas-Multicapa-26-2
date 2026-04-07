@@ -20,6 +20,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S06:** Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/) `|||` El módulo Q de Py3plex.
 * **S07:** Modelos epidemiológicos, Bootstrapping y Caminatas aleatorias.
 * **S08:** Map Equation `|||` Infomap.
+* **S09:** Redes temporales con Teneto `|||` Temporal Communities through Trajectory Clustering.
 <!-- 
 * **S08:** Map Equation e Infomap `|||` Curvatura de Ollivier-Ricci.
 * **S09:** Deep Walk `|||` Node2Vec.
