@@ -21,16 +21,13 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S07:** Modelos epidemiológicos, Bootstrapping y Caminatas aleatorias.
 * **S08:** Map Equation `|||` Infomap.
 * **S09:** Redes temporales con Teneto `|||` Temporal Communities through Trajectory Clustering.
-<!-- 
-* **S08:** Map Equation e Infomap `|||` Curvatura de Ollivier-Ricci.
-* **S09:** Deep Walk `|||` Node2Vec.
-* **S10:** Label propagation `|||` Link prediction.
-* **S11:** Introducción a Redes temporales con Teneto `|||` Métricas de redes temporales.
-* **S12:** Temporal Communities by Trajectory Clustering con Teneto `|||` Introducción a HONs (Higher-Order Networks).
-* **S13:** Complejos de Vietoris-Rips, Čech y Dowker `|||` Homología de Persistencia.
-* **S14:** TDA para Series de Tiempo (SW1Pers y Zigzag Persistence) `|||` Descomposición de Hodge-Helmholtz en redes.
-* **S15:** BallMapper `|||` Introducción a Graph Neural Networks (GNN).
-* **S16:** GNN (Profundización y Aplicaciones) `|||` Simplicial Neural Networks (SNN). -->
+* **S10:** Introducción a HONs `|||` Complejos de Vietoris-Rips, Čech y Dowker
+* **S11:** Descomposición de Hodge-Helmholtz `|||` Homología de Persistencia
+* **S12:** BallMapper `|||` TDA para Series de Tiempo (SW1Pers y Zigzag Persistence)
+* **S13:** Curvatura de Ollivier-Ricci `|||` Label propagation
+* **S14:** Link prediction `|||` Deep Walk
+* **S15:** Node2Vec `|||` Graph Neural Networks
+* **S16:** Simplicial Neural Networks (SNN)
   
 ## 🎯 Enfoque 
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
