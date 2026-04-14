@@ -21,12 +21,12 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S07:** Modelos epidemiológicos, Bootstrapping y Caminatas aleatorias.
 * **S08:** Map Equation `|||` Infomap.
 * **S09:** Redes temporales con Teneto `|||` Temporal Communities through Trajectory Clustering.
-* **S10:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html) `|||` Complejos de Vietoris-Rips, Čech y Dowker
-* **S11:** BallMapper `|||` Homología de Persistencia
-* **S12:** Descomposición de Hodge-Helmholtz `|||` TDA para Series de Tiempo (SW1Pers y Zigzag Persistence)
-* **S13:** Curvatura de Ollivier-Ricci `|||` Label propagation
-* **S14:** Link prediction `|||` Deep Walk
-* **S15:** Node2Vec `|||` Graph Neural Networks
+* **S10:** Label propagation `|||` Link prediction
+* **S11:** Deep Walk y Node2Vec `|||` Curvatura de Ollivier-Ricci
+* **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html) `|||` Complejos de Vietoris-Rips, Čech y Dowker
+* **S13:** Homología de Persistencia `|||` BallMapper
+* **S14:** Descomposición de Hodge-Helmholtz `|||` TDA para Series de Tiempo (SW1Pers y Zigzag)
+* **S15:** Graph Neural Networks (GNN)
 * **S16:** Simplicial Neural Networks (SNN)
   
 ## 🎯 Enfoque 
