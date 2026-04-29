@@ -22,7 +22,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S08:** Map Equation `|||` Infomap.
 * **S09:** Redes temporales con Teneto `|||` Temporal Communities through Trajectory Clustering.
 * **S10:** Label propagation `|||` Link prediction
-* **S11:** Deep Walk y Node2Vec `|||` Curvatura de Ollivier-Ricci
+* **S11:** Node2Vec `|||` Curvatura de Ollivier-Ricci
 * **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html) `|||` Complejos de Vietoris-Rips, Čech y Dowker
 * **S13:** Homología de Persistencia `|||` BallMapper
 * **S14:** Descomposición de Hodge-Helmholtz `|||` TDA para Series de Tiempo (SW1Pers y Zigzag)
