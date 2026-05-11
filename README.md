@@ -40,8 +40,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
   - `Teneto`
     
   - `xgi`
-  - `Pathpy`
-  - `HyperNetX`
+  - `GUDHI`
 - Consumo de APIs
 - Diversos modelos de redes complejas 
 
