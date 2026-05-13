@@ -23,11 +23,10 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S09:** Redes temporales con Teneto. `|||` Temporal Communities through Trajectory Clustering.
 * **S10:** Label propagation. `|||` Link prediction.
 * **S11:** Node2Vec. `|||` Curvatura de Ollivier-Ricci.
-* **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html). `|||` Complejos de Vietoris-Rips.
-* **S13:** Simplicial Complex Approximate Entropy (SCAE). `|||` Homología de Persistencia.
-* **S14:** BallMapper. `|||` Descomposición de Hodge-Helmholtz. 
-* **S15:** TDA para Series de Tiempo (SW1Pers y Zigzag) `|||` Graph Neural Networks (GNN)
-* **S16:** Simplicial Neural Networks (SNN)
+* **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html). `|||` Complejos de Vietoris-Rips & SCAE (Simplicial Complex Approximate Entropy).
+* **S13:** Homología de Persistencia. `|||` BallMapper.
+* **S14:** Descomposición de Hodge-Helmholtz. `|||` TDA para Series de Tiempo (Zigzag Persistence) 
+* **S15:** Graph Neural Networks (GNN) `|||` Simplicial Neural Networks (SNN)
   
 ## 🎯 Enfoque 
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
