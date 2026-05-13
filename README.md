@@ -25,8 +25,8 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S11:** Node2Vec. `|||` Curvatura de Ollivier-Ricci.
 * **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html). `|||` Complejos de Vietoris-Rips & SCAE (Simplicial Complex Approximate Entropy).
 * **S13:** Homología de Persistencia. `|||` BallMapper.
-* **S14:** Descomposición de Hodge-Helmholtz. `|||` TDA para Series de Tiempo (Zigzag Persistence) 
-* **S15:** Graph Neural Networks (GNN) `|||` Simplicial Neural Networks (SNN)
+* **S14:** TDA para Series de Tiempo (Zigzag Persistence) `|||`  Graph Neural Networks (GNN).
+* **S15:** Simplicial Neural Networks (SNN)
   
 ## 🎯 Enfoque 
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
