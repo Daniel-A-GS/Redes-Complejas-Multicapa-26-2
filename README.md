@@ -19,15 +19,13 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S05:** Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html).
 * **S06:** Introducción a [Py3plex](https://py3plex.readthedocs.io/en/latest/) `|||` El módulo Q de Py3plex.
 * **S07:** Modelos epidemiológicos, Bootstrapping y Caminatas aleatorias.
-* **S08:** Map Equation `|||` Infomap.
-* **S09:** Redes temporales con Teneto `|||` Temporal Communities through Trajectory Clustering.
-* **S10:** Label propagation `|||` Link prediction
-* **S11:** Node2Vec `|||` Curvatura de Ollivier-Ricci
-* **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html) `|||` Complejos de Vietoris-Rips, Čech y Dowker
-* **S13:** Homología de Persistencia `|||` BallMapper
-* **S14:** Descomposición de Hodge-Helmholtz `|||` TDA para Series de Tiempo (SW1Pers y Zigzag)
-* **S15:** Graph Neural Networks (GNN)
-* **S16:** Simplicial Neural Networks (SNN)
+* **S08:** Map Equation. `|||` Infomap.
+* **S09:** Redes temporales con Teneto. `|||` Temporal Communities through Trajectory Clustering.
+* **S10:** Label propagation. `|||` Link prediction.
+* **S11:** Node2Vec. `|||` Curvatura de Ollivier-Ricci.
+* **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html). `|||` Complejos de Vietoris-Rips & SCAE.
+* **S13:** Homología de Persistencia. `|||` BallMapper. 
+* **S14:** TDA para Series de Tiempo (Zigzag Persistence) `|||`  Graph Neural Networks 
   
 ## 🎯 Enfoque 
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
@@ -40,8 +38,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
   - `Teneto`
     
   - `xgi`
-  - `Pathpy`
-  - `HyperNetX`
+  - `GUDHI`
 - Consumo de APIs
 - Diversos modelos de redes complejas 
 
