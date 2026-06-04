@@ -24,8 +24,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S10:** Label propagation. `|||` Link prediction.
 * **S11:** Node2Vec. `|||` Curvatura de Ollivier-Ricci.
 * **S12:** Introducción a HONs con [XGI](https://xgi.readthedocs.io/en/latest/index.html). `|||` Complejos de Vietoris-Rips & SCAE.
-* **S13:** BallMapper. 
-* **S14:** TDA para Series de Tiempo (Zigzag Persistence) `|||`  Graph Neural Networks 
+* **S13:** BallMapper.
   
 ## 🎯 Enfoque 
 - **100% práctico**: Aprenderás a modelar datos con distintos modelos de redes complejas con el lenguaje de programación Python.
